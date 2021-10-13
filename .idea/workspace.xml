@@ -6,12 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="fe18eec3-1275-49ae-beb7-143b2f4f6788" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_weasis_core_weasis_core_img_4_5_3.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/mvn-repo.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/mvn-repo.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,9 +24,13 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/releases/org/weasis/core/4" />
     <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/releases/org/weasis/core/4" />
+    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="com.ahsq.mvnrepo" />
     </key>
@@ -47,7 +45,7 @@
       <updated>1631778323772</updated>
       <workItem from="1631778326828" duration="3000" />
       <workItem from="1631778370133" duration="3116000" />
-      <workItem from="1634119221196" duration="4573000" />
+      <workItem from="1634119221196" duration="5043000" />
     </task>
     <servers />
   </component>
